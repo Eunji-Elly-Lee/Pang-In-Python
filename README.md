@@ -1,7 +1,11 @@
-![attack screen](/img/attack.gif)
-![mission complete screen](/img/mission_complete.gif)
-![game over screen](/img/game_over.gif)
-![time over screen](/img/time_over.gif)
+<div>
+    <img src="./img/attack.gif" width="50%">    
+    <img src="./img/mission_complete.gif" width="50%">
+</div>
+<div>
+    <img src="./img/game_over.gif" width="50%">    
+    <img src="./img/time_over.gif" width="50%">
+</div>
 
 This is a program that implements the classic arcade game Pang using Python.
 
