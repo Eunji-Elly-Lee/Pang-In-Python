@@ -1,10 +1,10 @@
-<div>
-    <img src="./img/attack.gif" width="50%">    
-    <img src="./img/mission_complete.gif" width="50%">
+<div style="text-align:center">
+    <img src="./img/attack.gif" width="48%">    
+    <img src="./img/mission_complete.gif" width="48%">
 </div>
-<div>
-    <img src="./img/game_over.gif" width="50%">    
-    <img src="./img/time_over.gif" width="50%">
+<div style="text-align:center">
+    <img src="./img/game_over.gif" width="48%">    
+    <img src="./img/time_over.gif" width="48%">
 </div>
 
 This is a program that implements the classic arcade game Pang using Python.
