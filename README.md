@@ -7,6 +7,8 @@
     <img src="./img/time_over.gif" width="48%">
 </div>
 
+<br/>
+
 This is a program that implements the classic arcade game Pang using Python.
 
 - A user can only move from side to side and uses the weapons to hit and eliminate all balls in the screen.
