@@ -9,7 +9,7 @@
 
 <br/>
 
-This is a program that implements the classic arcade game Pang using Python.
+This is a program that implements the arcade game "Pang" using Python.
 
 - A user can only move from side to side and uses the weapons to hit and eliminate all balls in the screen.
 - The left and right keys are used to move the user's character, and the space key is used to launch weapons.
