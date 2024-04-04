@@ -23,12 +23,12 @@ This Pang game is implemented using Pygame and can be run in Visual Studio Code.
 
 ### Features
 
-- **Simple game play**: 화살표 키와 스페이스 키로 쉬운 컨드롤
-- **Error handling**: 다른 키가 입력되었을 때 무시됨
-- **다양한 공 조건**: 4가지 사이즈의 공이 있고 사이즈에 따라 공의 움직임 반경이 다름
-- **좀 더 도전적**: 제일 작은 공을 맞춰야만 사라지지만 그것은 맞추기 어려움
+- **Simple game play**: Easy control with arrow keys and space key
+- **Error handling**: Ignoring input when other keys are pressed
+- **Diverse ball conditions**: Four ball sizes with different movement radii
+- **Increased Challenge**: Smallest balls require precise aim and are harder to hit
 - **Time limit**: Eliminate all balls before the 100-second timer runs out
-- **자동 종료**: 미션을 완료하거나 게임에서 지면 프로그램이 자동 종료 됩니다
+- **Automatic Termination**: Program automatically ends upon mission completion or game loss
 
 ### Running the Game in VS Code
 
