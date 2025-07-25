@@ -1,4 +1,4 @@
-## Pang Game with Python
+# Pang Game with Python
 
 ## 💡 Overview
 
